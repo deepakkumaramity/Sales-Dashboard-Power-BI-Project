@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="Image Apr 2, 2026, 12_46_29 PM" src="https://github.com/user-attachments/assets/00a08011-dde0-4efb-9275-2c2754cfff1c" /># 🚀 Sales Dashboard (Power BI)
+<img width="1024" height="1536" alt="Image Apr 2, 2026, 12_46_29 PM" src="https://github.com/user-attachments/assets/47731ffb-5fe4-4ab9-9476-750812957f2f" />Sales Dashboard (Power BI)
 
 👤 **Created by: Deepak Kumar**
 
@@ -154,6 +154,8 @@ This dashboard helps:
 ---
 
 ## 🖼 Dashboard Preview
+
+
 [Uploading Image Apr 2, 2026, 12_46_29 PM.png…]()
 
 
