@@ -1,4 +1,4 @@
-# 🚀 Sales Dashboard (Power BI)
+<img width="1024" height="1536" alt="Image Apr 2, 2026, 12_46_29 PM" src="https://github.com/user-attachments/assets/00a08011-dde0-4efb-9275-2c2754cfff1c" /># 🚀 Sales Dashboard (Power BI)
 
 👤 **Created by: Deepak Kumar**
 
@@ -100,7 +100,7 @@ TOTALYTD(
 
 ---
 
-### 🔹 Step 4: Dashboard Design<img width="1024" height="1536" alt="Image Apr 2, 2026, 12_46_29 PM" src="https://github.com/user-attachments/assets/7c161b2c-44df-49ae-bea3-b4ef66b594fe" />
+### 🔹 Step 4: Dashboard Design
 
 
 
@@ -154,8 +154,8 @@ This dashboard helps:
 ---
 
 ## 🖼 Dashboard Preview
+[Uploading Image Apr 2, 2026, 12_46_29 PM.png…]()
 
-👉 (Add your screenshot here: dashboard.png)
 
 ---
 
