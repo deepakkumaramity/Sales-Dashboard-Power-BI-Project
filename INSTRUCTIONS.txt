@@ -1,0 +1,12 @@
+INSTRUCTIONS:
+
+1. Add your Power BI file:
+   -> dashboard.pbix
+
+2. Add dashboard screenshot:
+   -> dashboard.png
+
+3. Upload this folder to GitHub
+
+Repository Name Suggestion:
+sales-dashboard-powerbi
